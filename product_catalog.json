@@ -1,0 +1,13 @@
+{
+   "Catalog": {
+        "Products" : [
+            {
+                "ProductID" : "101",
+                "Name" : "SmartPhone",
+                "Category" : "Electronics",
+                "Price" : 299.99,
+                "Stock" : 25
+            }
+        ]
+    }
+}
